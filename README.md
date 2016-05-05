@@ -29,3 +29,8 @@ Let’s go over the steps for running the server:
 
 Replace YOUR_API_KEY with the server key you created earlier
 
+
+SwiftyJSON
+
+pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
+
