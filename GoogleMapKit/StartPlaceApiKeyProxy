@@ -1,0 +1,11 @@
+cd [PATH_TO_SERVER_CODE]
+
+
+IOS Key
+-------
+pub run bin/main.dart -k AIzaSyCEZ0WIVS8Dynv9_XOEhjCzNNmbMmlXDLo -p 10000
+
+
+Browser Key
+-----------
+pub run bin/main.dart -k AIzaSyCKrOHxO0QJmydtbfYJZWsF-QFVoCYemO4 -p 10000
